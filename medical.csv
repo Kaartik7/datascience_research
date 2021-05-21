@@ -1,9 +1,9 @@
 No,State,Hospitals,Hospital beds,ICU beds,Ventilators,fatality,population
 1,Lakshadweep,13,426,21,11,0.3,0.68
 2,Chandigarh,13,5631,282,141,1.2,11.8
-3,Dadra & N Haveli,18,941,47,24,NA,9.6
+3,Dadra & N Haveli,18,941,47,24,1,9.6
 4,Puducherry,20,5172,259,129,1.4,15
-5,Daman & Diu,26,1250,63,31,NA,9.6
+5,Daman & Diu,26,1250,63,31,1,9.6
 6,Andaman Nicobar Islands,36,1294,65,32,1.4,4
 7,Manipur,38,1790,90,45,1.5,31
 8,Sikkim,41,1952,98,49,1.8,6.6
